@@ -1,7 +1,6 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+
+My name is Markham Beverly and this is my app. I love Web Design!
 
 Things you may want to cover:
 
